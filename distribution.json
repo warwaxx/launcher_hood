@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "aboe-1.12.2",
-      "name": "A Bit of Everything",
-      "description": "Nytro Networks ABOE server",
+      "name": "Hood Serveur",
+      "description": "Serveur PixelMon du Hood",
       "icon": "http://nyzz.me/servers/aboe-1.12.2/aboe-1.12.2.png",
       "version": "3.6.6",
       "address": "aboe.nytro.co",
