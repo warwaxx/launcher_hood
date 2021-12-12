@@ -241,7 +241,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 956629,
-            "MD5": "bc1d3d080d2d16520039b6ee0d6be657",
+            "MD5": "cb4ac16615839333428a9e99f9c20f0f",
             "url": "https://cdn.discordapp.com/attachments/846671505558863872/919573666273054731/ironchest-1.12.2-7.0.69.845.jar",
           }
         },
@@ -251,7 +251,7 @@
             "type": "ForgeMod",
             "artifact": {
               "size": 2669107,
-              "MD5": "bc1d3d080d2d16520039b6ee0d6be657",
+              "MD5": "54e561e441192cf009803ae95873c5d0",
               "url": "https://cdn.discordapp.com/attachments/846671505558863872/919573696740474880/OptiFine_1.12.2_HD_U_G5.jar",
             }
         },
@@ -261,7 +261,7 @@
             "type": "ForgeMod",
             "artifact": {
               "size": 25463,
-              "MD5": "bc1d3d080d2d16520039b6ee0d6be657",
+              "MD5": "3b078f6b90a665ff92da8314f2fb5c1c",
               "url": "https://cdn.discordapp.com/attachments/846671505558863872/919576535634157598/quickteleports-1.12.2-1.1.1.jar",
             }
         },
@@ -276,7 +276,7 @@
             },
             "artifact": {
               "size": 6990613,
-              "MD5": "bc1d3d080d2d16520039b6ee0d6be657",
+              "MD5": "3825ed0144c5cbf4d30760bec96d5843",
               "url": "https://cdn.discordapp.com/attachments/846671505558863872/919573961380089896/journeymap-1.12.2-5.7.0.jar",
             }
         }
